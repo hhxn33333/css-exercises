@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.bugabuga,
+.chinchon {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.bugabuga {
+    background-color: black;
+    color: white;
+}
+
+.chinchon {
+    background-color: yellow;
+}
